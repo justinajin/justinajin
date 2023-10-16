@@ -41,7 +41,7 @@
 <br>
 <h1 align="center"> ✨ About Me </h1>
 
-
+![justinajin's github stats](https://github-readme-stats.vercel.app/api?username=justinajin&show_icons=true)
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F1B5B5&height=150&section=footer" />
